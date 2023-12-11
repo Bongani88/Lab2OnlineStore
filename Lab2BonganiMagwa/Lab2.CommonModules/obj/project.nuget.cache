@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YF1jj+v3CWlZm7I/SW4Yoh+zhwQdyeiP466sCR6ACkdU45qnsRe4qPVDWSEufDdpy5UVgaAJMXyeKeo6yDFZxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bonga\\OneDrive\\Desktop\\C# App\\Lab2\\Lab2.CommonModules\\Lab2.CommonModules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bonga\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
